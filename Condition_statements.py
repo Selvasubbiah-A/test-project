@@ -66,32 +66,9 @@
 #     print('Access denied!')
 
 
-
-"""
-You need to declare a list variable
-Need to get the limit of values from user
-Get the list of elements from user in output
-check if the value has duplicates
-print the result as it is 
-finally print the result list with distict records sorted in desc order 
-"""
-
-# lst = []
-
-# limit = int(input("Enter the length of your list : "))
-
-# for i in range(limit):
-
-#     element = int(input(f"Enter your list element for {i} index : "))
-
-#     lst.append(element)
-
-# print(f"Your entered list is : {lst}")
-
-# st = set(lst)
-
-# lst = list(st)
+print("This is a Conditional Statement Scenario file")
 
 # lst.sort(reverse=True)
 
 # print(f"Your list after removing duplicates and ordered : {lst}")
+
